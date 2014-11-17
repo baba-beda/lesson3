@@ -4,5 +4,9 @@
     <string name="app_name">lesson3</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="hint">Type the word here</string>
+    <string name="button">Translate</string>
+    <string name="translation_progress">Переводим...</string>
+    <string name="download_progress">Загрузка изображений...</string>
 
 </resources>

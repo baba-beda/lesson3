@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey">#5c000000</color>
+    <color name="background">#ff00a9ff</color>
+    <color name="button_text">#ff030046</color>
+    <color name="field_text">#ff2d0052</color>
+    <color name="translation_text">#9f250041</color>
+    <color name="download">#9f090012</color>
+</resources>
